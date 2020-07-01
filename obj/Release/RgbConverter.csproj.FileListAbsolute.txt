@@ -1,9 +1,0 @@
-C:\Users\fillo\source\repos\RgbConverter\bin\Release\RgbConverter.exe.config
-C:\Users\fillo\source\repos\RgbConverter\bin\Release\RgbConverter.exe
-C:\Users\fillo\source\repos\RgbConverter\bin\Release\RgbConverter.pdb
-C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.Form1.resources
-C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.Properties.Resources.resources
-C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.csproj.GenerateResource.cache
-C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.csproj.CoreCompileInputs.cache
-C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.exe
-C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.pdb
