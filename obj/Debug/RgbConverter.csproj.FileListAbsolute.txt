@@ -1,0 +1,10 @@
+C:\Users\fillo\source\repos\RgbConverter\bin\Debug\RgbConverter.exe.config
+C:\Users\fillo\source\repos\RgbConverter\bin\Debug\RgbConverter.exe
+C:\Users\fillo\source\repos\RgbConverter\bin\Debug\RgbConverter.pdb
+C:\Users\fillo\source\repos\RgbConverter\obj\Debug\RgbConverter.csprojAssemblyReference.cache
+C:\Users\fillo\source\repos\RgbConverter\obj\Debug\RgbConverter.Properties.Resources.resources
+C:\Users\fillo\source\repos\RgbConverter\obj\Debug\RgbConverter.csproj.GenerateResource.cache
+C:\Users\fillo\source\repos\RgbConverter\obj\Debug\RgbConverter.csproj.CoreCompileInputs.cache
+C:\Users\fillo\source\repos\RgbConverter\obj\Debug\RgbConverter.exe
+C:\Users\fillo\source\repos\RgbConverter\obj\Debug\RgbConverter.pdb
+C:\Users\fillo\source\repos\RgbConverter\obj\Debug\RgbConverter.Form1.resources
