@@ -18,4 +18,4 @@ All params will be saved so when you close and open the launcher you'll have the
 
 ### Would you like to suggest an update?
 
-pm me on discord (MrFreex#2443)
+pm me on discord (MrFreex#2443).
