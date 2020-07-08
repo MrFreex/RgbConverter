@@ -7,3 +7,4 @@ C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.csproj.Generat
 C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.csproj.CoreCompileInputs.cache
 C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.exe
 C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.pdb
+C:\Users\fillo\source\repos\RgbConverter\obj\Release\RgbConverter.csprojAssemblyReference.cache

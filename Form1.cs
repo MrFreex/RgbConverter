@@ -39,11 +39,11 @@ namespace RgbConverter
                     var culture = (CultureInfo)CultureInfo.CurrentCulture.Clone();
                     culture.NumberFormat.NumberDecimalSeparator = ".";
                     float inputNum = float.Parse(input,culture);
-                    MessageBox.Show(Convert.ToString(inputNum));
+                    //MessageBox.Show(Convert.ToString(inputNum));
                     
                     string ToReturnStr = string.Format("{0}", (((float)Math.Truncate((inputNum * 255) * 10000)) / 10000));
                     ToReturnStr = ToReturnStr.Replace(',','.');
-                    MessageBox.Show(ToReturnStr);
+                    //MessageBox.Show(ToReturnStr);
                     return ToReturnStr;
                 } else
                 {
